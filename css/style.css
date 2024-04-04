@@ -1,0 +1,15 @@
+/* class */
+/* id */
+/* global */
+#intro-title {
+    color: red;
+    font-size: 30px;
+}
+
+.intro-title {
+    color: green;
+}
+
+span {
+    color: blue
+}

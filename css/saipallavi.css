@@ -1,0 +1,41 @@
+body {
+    background-color: #7ac663;
+    font-family: "Mukta", sans-serif;
+}
+
+.card {
+    background-color: #FFF;
+    padding: 30px;
+    /* border: 3px solid blue; */
+    border-radius: 10px;
+
+
+    display: flex;
+}
+
+.card-img {
+    border-radius: 5px;
+}
+
+.card-contents {
+    padding-left: 30px
+}
+
+.card-title {
+    font-size: 40px;
+}
+
+.card-desc {
+    font-size: 20px;
+}
+
+/* Buttons */
+
+.card-button {
+    background-color: #7ac663;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: #000;
+    font-weight: bold;
+}
